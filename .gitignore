@@ -1,0 +1,11 @@
+**/target/*
+**/copied/*
+**/*.iml
+**/*.ipr
+**/*.iws
+.idea
+out/
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
