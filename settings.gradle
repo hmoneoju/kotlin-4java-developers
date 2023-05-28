@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'kotlin-4java-developers'
-include('course')
+include('app')
