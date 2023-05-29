@@ -1,10 +1,7 @@
 package week1
 
-
-fun main() {
-    val name = "Hector"
-    print("Hello $name!")
-}
+import week1.Color.BLUE
+import week1.Color.ORANGE
 
 fun main(args: Array<String>) {
     // val name = if (args.isNotEmpty()) args[0] else "Kotlin"
@@ -15,5 +12,12 @@ fun main(args: Array<String>) {
     //print("$result")
 
     // displaySeparator
-    runDisplaySeparator()
-}
+    // runDisplaySeparator()
+
+    // print(getDescription(BLUE))
+    //print(mix(BLUE, ORANGE))
+    //print(mix(BLUE, BLUE))
+
+    for (ch in "abc") {
+        print(ch + 1)
+    }}
